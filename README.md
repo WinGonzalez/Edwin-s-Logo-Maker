@@ -10,3 +10,4 @@ This script is crafted to generate elementary logos, ideal for minor teams or de
 [mdn web docs SVG Tutorial](https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial)
 
 ## Walkthrough Video
+[Video](https://drive.google.com/file/d/1SAFZKyCaDWbPkhnv9PrTPNRprI84LHJe/view) 

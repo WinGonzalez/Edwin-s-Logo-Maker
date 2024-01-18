@@ -1,0 +1,4 @@
+<?xml version="1.0" standalone="no"?>
+<svg width="300" height="200" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="150" cy="100" r="50" fill="#ff6347"/><text text-anchor="middle" x="150" y="120" font-size="3em" font-family="sans-serif" fill="#000000">TES</text>
+</svg>
